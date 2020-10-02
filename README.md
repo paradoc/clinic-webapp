@@ -1,12 +1,12 @@
 # clinic-webapp
 
-# Mockups
+# Design
 
-https://www.figma.com/file/abNAS1EUsHI83rQnWdDgJY/Clinic
+Wireframes: https://www.figma.com/file/kTvmLuCGei1WJKwrxHHBSH/Clinic-Wireframes
 
 # Status
 
-|Phase|Mockups|Code|
+|Phase|Design|Code|
 |-----|-------|----|
 |1    |In Progress|-|
 
