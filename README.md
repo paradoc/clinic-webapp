@@ -6,16 +6,15 @@ Wireframes: https://www.figma.com/file/kTvmLuCGei1WJKwrxHHBSH/Clinic-Wireframes
 
 # Status
 
-|Phase|Design|Code|
-|-----|-------|----|
-|1    |In Progress|-|
+| Phase | Design      | Code |
+| ----- | ----------- | ---- |
+| 1     | In Progress | -    |
 
 # Stack
 
 - React
 - Typescript
 - Redux Toolkit
-- Next
 - SCSS
 - Rambda
 - GraphQL (?)
